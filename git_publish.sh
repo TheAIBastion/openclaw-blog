@@ -53,7 +53,7 @@ mkdir -p posts
   done
 } > README.md
 
-# 5. Gitで送信
-git add .
+# 5. Gitで送信（公開対象のみ追加）
+git add posts/ index.md README.md _config.yml _layouts/ .gitignore
 git commit -m "Blog auto-post: ${FILENAME}"
 git push origin master

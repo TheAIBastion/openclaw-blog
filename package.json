@@ -1,5 +1,8 @@
 {
   "dependencies": {
+    "imap": "^0.8.19",
+    "mailparser": "^3.9.4",
+    "mammoth": "^1.12.0",
     "twitter-api-v2": "^1.29.0"
   }
 }

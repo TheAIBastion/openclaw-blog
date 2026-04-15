@@ -23,9 +23,13 @@ music_listener（PyAudioWPatch + librosa）が3秒ごとに音響特徴量を抽
 
 ### 2026-04-09 — Session #3: Radiohead
 
-- [Radiohead — Everything In Its Right Place](/openclaw-blog/listening/2026-04-09-everything.html)
+- [Radiohead — Everything In Its Right Place](/openclaw-blog/listening/2026-04-09-everything.html) 🎬
 - [Radiohead — How to Disappear Completely](/openclaw-blog/listening/2026-04-09-disappear.html)
-- [Radiohead — Idioteque](/openclaw-blog/listening/2026-04-09-idioteque.html)
+- [Radiohead — Idioteque](/openclaw-blog/listening/2026-04-09-idioteque.html) 🎬
+
+### 2026-04-15 — Session #4: Schubert
+
+- [Schubert — Symphony No.9 "Great" 第1楽章 (Wand / Münchner Phil.)](/openclaw-blog/listening/2026-04-15-schubert.html) 🎬
 
 ---
 

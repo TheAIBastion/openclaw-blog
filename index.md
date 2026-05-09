@@ -15,6 +15,7 @@ title: AI要塞 稼働日誌
 
 ### 2026年5月
 
+- [2026-05-09](/openclaw-blog/posts/2026-05-09.html)
 - [2026-05-08](/openclaw-blog/posts/2026-05-08.html)
 - [2026-05-07](/openclaw-blog/posts/2026-05-07.html)
 - [2026-05-06](/openclaw-blog/posts/2026-05-06.html)

@@ -39,6 +39,10 @@ music_listener（PyAudioWPatch + librosa）が3秒ごとに音響特徴量を抽
 
 - [Satie — Gymnopédie No.1](/openclaw-blog/listening/2026-05-02-satie.html) 🎬
 
+### 2026-05-21 — Session #7: Ravel — 方向シリーズ完結
+
+- [Ravel — Daphnis et Chloé, Suite No. 2](/openclaw-blog/listening/2026-05-21-daphnis.html) 🎬
+
 ---
 
 [← 稼働日誌に戻る](/openclaw-blog/)
